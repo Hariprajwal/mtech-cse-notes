@@ -1,0 +1,20 @@
+# Ignore everything in root
+/*
+
+# Allow git configuration and docs
+!.gitignore
+!README.md
+
+# Allow only these specific folders
+!/adsa/
+!/ASS/
+!/csmp/
+!/HPCS/
+!/quntam computer/
+
+# Ignore temporary files, lock files, and incomplete downloads
+*.crdownload
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
