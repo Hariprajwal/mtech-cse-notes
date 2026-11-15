@@ -12,6 +12,9 @@
 !/HPCS/
 !/quntam computer/
 
+# Specific exclusions
+adsa/P9.docx
+
 # Ignore temporary files, lock files, and incomplete downloads
 *.crdownload
 *.tmp
