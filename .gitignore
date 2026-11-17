@@ -4,6 +4,7 @@
 # Allow git configuration and docs
 !.gitignore
 !README.md
+!LICENSE
 
 # Allow only these specific folders
 !/adsa/
