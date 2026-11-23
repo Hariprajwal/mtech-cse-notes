@@ -144,6 +144,9 @@ mtech-cse-notes/
 ├── HPCS/                               # High Performance Computing Systems (CSS 5103)
 │   ├── HPCS LAB Manual.pdf
 │   ├── Theory & Planning Syllabi.pdf
+│   ├── formula book/                   # Comprehensive formula revision book (pg 1-13)
+│   ├── blr campus old qp/              # Bengaluru campus past question papers
+│   ├── main campus qp old/             # MIT Manipal main campus endsem papers
 │   └── slides/
 │       ├── OpenMP & MPI guides.pdf
 │       └── CUDA/                       # CUDA Part 1, Part 2, and Architecture
@@ -153,6 +156,9 @@ mtech-cse-notes/
     ├── Mid Sem Exam Question Papers.pdf
     ├── Question Banks & Practice Sets.pdf
     └── OneDrive_2026-09-27/Class Material/
+        ├── QC End Sem/                 # End-semester chapter-wise modules & notes
+        ├── QC Notes adv.pdf            # Advanced quantum notes
+        └── Syllabus.pdf & qc..txt      # Official syllabus breakdown
 ```
 
 ---

@@ -1,0 +1,35 @@
+OFFICIAL SYLLABUS
+
+1. Introduction to Quantum computation
+2. Quantum bits
+3. Single qubit operations
+4. Postulates of quantum mechanics
+5. Quantum Measurement
+6. Bell states
+7. EPR Paradox
+8. No Cloning Theorem
+9. Quantum Gates
+10. Single qubit gates
+11. Pauli Gates
+12. Hadamard gate
+13. Quantum Circuits
+14. Multi-qubit gates
+15. CNOT gate
+16. Toffoli gate
+17. Fredkin Gate
+18. Universal quantum gates
+19. Quantum Key Distribution
+20. Superdense coding and Quantum Teleportation
+21. Quantum Parallelism and entanglement
+22. The quantum Fourier transform (QFT)
+23. Walsh-Hadamard transformation
+24. Quantum search algorithms
+25. Grover’s Search Algorithm
+26. Deutsch Algorithm
+27. Deutsch-Jozsa Algorithm
+28. Bernstein-Vazirani Algorithm
+29. Simon’s Algorithm
+30. Shor’s Factorization algorithm
+31. Quantum error correcting codes
+32. Overview of Qiskit-IBM quantum computing open-source tool
+33. SDL: Designing quantum circuits and implementing quantum algorithms using Qiskit.
