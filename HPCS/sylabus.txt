@@ -1,0 +1,114 @@
+
+CSS 5103: HIGH PERFORMANCE COMPUTING SYSTEMS
+Credits: 4 (3 1 0 4)
+
+==================================================
+1. INTRODUCTION TO PARALLEL COMPUTING
+==================================================
+
+1. Introduction to Parallel Computing
+2. Need for Parallel Computing
+3. Programmatic Levels of Parallel Processing
+4. Parallel Computer Structures
+5. Handler's Classification
+6. Feng's Classification
+7. Applications of Parallel Processing
+8. Synchronous Parallel Processing
+9. Inter-PE Communications
+10. Interconnection Network
+
+==================================================
+2. OPENMP
+==================================================
+
+1. Parallel Programming in OpenMP
+2. OpenMP Functions
+3. Threads Synchronization
+4. OpenMP Critical Section
+
+==================================================
+3. MESSAGE PASSING INTERFACE (MPI)
+==================================================
+
+1. Message Passing Interface Programming
+2. Message Passing Libraries
+3. Point-to-Point Communication
+4. Collective Communication
+5. MPI Error Handling
+
+==================================================
+4. HETEROGENEOUS COMPUTING AND OPENCL
+==================================================
+
+1. Heterogeneous Computing
+2. OpenCL Architecture
+3. Host/Device Interaction
+4. Kernels and OpenCL Execution Models
+5. Program Layout
+6. Memory Model
+7. Thread Structure
+8. Work-item and Workgroup
+
+==================================================
+5. CUDA
+==================================================
+
+1. Introduction to CUDA
+2. CUDA Programming Model
+3. CUDA Threads
+4. CUDA Programming Basics
+
+==================================================
+6. SDL (SELF-DIRECTED LEARNING)
+==================================================
+
+1. Applications of Parallel Processing
+2. Design of Interconnection Network
+3. OpenMP Programming
+
+==================================================
+7. COURSE OUTCOMES
+==================================================
+
+CO1: Analyse the need of parallel computing with the
+structure of parallel computers.
+
+CO2: Summarize the salient features of different multi-core
+architectures to exploit parallelism using OpenMP.
+
+CO3: Demonstrate how to apply point-to-point and collective
+communication primitives in writing MPI programs.
+
+CO4: Design and implement parallel programs in modern
+environments using OpenCL.
+
+CO5: Analyze and design parallel programs to enhance
+machine performance in parallel hardware environment
+using CUDA.
+
+CO6: Apply the principles learnt in developing the design
+of Interconnection network for a parallel computer,
+OpenMP programming and association with applications
+of parallel processing.
+
+==================================================
+8. REFERENCE BOOKS
+==================================================
+
+1. Kai Hwang, Faye A. Briggs
+   Computer Architecture and Parallel Processing
+   Tata McGraw-Hill India, 2012.
+
+2. Michael J. Quinn
+   Parallel Programming in C with MPI and OpenMP
+   McGraw Hill, 2003.
+
+3. Benedict R. Gaster, Lee Howes, David R. Perhaad Mistry,
+   Dana Schaa
+   Heterogeneous Computing with OpenCL
+   Morgan Kaufmann, 2012.
+
+4. David B. Kirk, Wen-mei W. Hwu
+   Programming Massively Parallel Processors:
+   A Hands-on Approach, 2nd Edition
+   Elsevier, 2012.
